@@ -18,7 +18,7 @@ atom-text-editor {
 
 	.gutter {
 		background-color: @syntax-gutter-background-color;
-		color: @syntax-gutter-text-color;
+		color: darken(@syntax-gutter-text-color, 5%);
 
 		.line-number {
 			&.cursor-line {
@@ -35,7 +35,7 @@ atom-text-editor {
 	.gutter .line-number.folded,
 	.gutter .line-number:after,
 	.fold-marker:after {
-		color: rgb(215, 182, 111);
+		color: @syntax-gutter-text-color-selected;
 	}
 
 	.invisible {
@@ -114,7 +114,7 @@ atom-text-editor {
 }
 
 .syntax--variable {
-	color: @red;
+	color: darken(@red, 10%);
 
 	&.syntax--interpolation {
 		color: darken(@red, 10%);

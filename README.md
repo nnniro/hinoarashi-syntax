@@ -1,6 +1,6 @@
 # hinoarashi-syntax theme
 
-cyndaquil, I choose you!
+Cyndaquil, I Choose You!
 
 This syntax is inspired by [pikachu-syntax](https://atom.io/themes/pikachu-syntax).
 
