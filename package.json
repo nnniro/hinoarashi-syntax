@@ -1,14 +1,14 @@
 {
   "name": "hinoarashi-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cyndaquil, I Choose You!",
   "keywords": [
     "syntax",
     "theme",
-		"hinoarashi",
-		"cyndaquil",
-		"pokemon"
+    "hinoarashi",
+    "cyndaquil",
+    "pokemon"
   ],
   "repository": "https://github.com/nnniro/hinoarashi-syntax",
   "license": "MIT",
