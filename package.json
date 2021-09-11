@@ -1,8 +1,35 @@
 {
-  "name": "hinoarashi-syntax",
-  "theme": "syntax",
-  "version": "0.0.2",
+  "_from": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball",
+  "_id": "hinoarashi-syntax@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-KssWF485ISuWMMpjcT9dLLrO2lQKftgj4gEEVkoJL1pD2W0oM7dctF1mLA8L4seHD/w2Czm9qUkOtQWUlhYEdg==",
+  "_location": "/hinoarashi-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball",
+  "_shasum": "a60189113330e11fa91d45f680181614a86ade3c",
+  "_spec": "https://www.atom.io/api/packages/hinoarashi-syntax/versions/0.1.0/tarball",
+  "_where": "C:\\Users\\kenn2\\AppData\\Local\\Temp\\apm-install-dir-120211-1544-1bdql7m.qdo6",
+  "bugs": {
+    "url": "https://github.com/nnniro/hinoarashi-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Cyndaquil, I Choose You!",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/nnniro/hinoarashi-syntax#readme",
   "keywords": [
     "syntax",
     "theme",
@@ -10,9 +37,12 @@
     "cyndaquil",
     "pokemon"
   ],
-  "repository": "https://github.com/nnniro/hinoarashi-syntax",
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+  "name": "hinoarashi-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnniro/hinoarashi-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.0"
 }
