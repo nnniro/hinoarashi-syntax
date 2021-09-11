@@ -41,7 +41,7 @@
   "name": "hinoarashi-syntax",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nnniro/hinoarashi-syntax.git"
+    "url": "https://github.com/nnniro/hinoarashi-syntax"
   },
   "theme": "syntax",
   "version": "0.1.0"
