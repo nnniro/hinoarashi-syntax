@@ -44,5 +44,5 @@
     "url": "git+https://github.com/nnniro/hinoarashi-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.5.1"
+  "version": "0.6.0"
 }
